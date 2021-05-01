@@ -1,4 +1,4 @@
-# EPFL-Experience-Design-Project
+# EPFL Fall 2020 Experience Design Project - The Better Cuddler
 
 Have you missed the warm feeling of embracing your loved ones during confinement? Research shows that physical touch, and longing for it, is part of being human. When we are deprived of touch, stress and depression levels rise.
 

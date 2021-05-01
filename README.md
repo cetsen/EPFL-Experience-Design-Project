@@ -6,4 +6,4 @@ With The Better Cuddler, you can feel the warm and soft embrace of your loved on
 
 You may watch this 2-min video explaining how the device and its mobile application work: https://vimeo.com/489592355
 
-You may also check out the blog post showing and explaining the experience map, patent drawing, system diagram of the device: https://augmentedhome2020.wordpress.com/2020/12/10/to-embrace/
+You may also check out the blog post showing and explaining the experience map, patent drawing, and system diagram of the device: https://augmentedhome2020.wordpress.com/2020/12/10/to-embrace/
